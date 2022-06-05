@@ -1,2 +1,2 @@
 # InlineWebBookingAutomation
-## auto booking reservation in Inline.app
+auto booking reservation in Inline.app
